@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "tquyy4910_minimal_digital_vectorial_illustration_of_empty_walle_41c65b46-13a2-4174-be91-1379bbea45af@.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "tquyy4910_minimal_digital_vectorial_illustration_of_empty_walle_41c65b46-13a2-4174-be91-1379bbea45af@2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "tquyy4910_minimal_digital_vectorial_illustration_of_empty_walle_41c65b46-13a2-4174-be91-1379bbea45af@3x.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
